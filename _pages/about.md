@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Oxford Applied and Theoretical Machine Learning Group](https://oatml.cs.ox.ac.uk), part of the Computer Science Department at the University of Oxford, under the co-supervision of [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/index.html) at the university of Oxford and [Debora Marks](https://sysbio.med.harvard.edu/debora-marks) at Harvard University. I am currently visiting at the [Marks lab](https://www.deboramarkslab.com/) in Boston.
+I am a Ph.D. candidate in the [Oxford Applied and Theoretical Machine Learning Group](https://oatml.cs.ox.ac.uk), part of the Computer Science Department at the University of Oxford, under the co-supervision of [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/index.html) at the university of Oxford and [Debora Marks](https://sysbio.med.harvard.edu/debora-marks) at Harvard University. I am currently visiting the [Marks lab](https://www.deboramarkslab.com/) in Boston.
  <!-- and making the most of the great weather here!  -->
 I am interested in machine learning application to computational biology, specifically the use of protein language models as tools for generative protein design. This involves the development a new methods and network architectures for the specific problem at hand as well as the validation of these methods. I have worked with [Pascal Notin](https://www.pascalnotin.com) on ProteinNPT, a new architecture for supervised prediction of protein fitness prediction. I have also partake in the wider Marks lab effort ProteinGym, the most extensive collection of deep mutational scans, setting the most accurate benchmark of language models as fitness predictors. 
 

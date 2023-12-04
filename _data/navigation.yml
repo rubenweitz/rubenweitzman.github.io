@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
+    # url: /publications/ in the future will generate my own list of publications, look at jupyter notebook for reference
+    url: https://scholar.google.com/citations?hl=en&user=q_A16kQAAAAJ
   # - title: "Talks"
   #   url: /talks/    
 
@@ -11,9 +11,9 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-  
+
   - title: "CV"
-    url: /cv/CVRuben 12112021.pdf
+    url: /files/CVRuben_12112021.pdf
     
   - title: "Blog Posts"
     url: /year-archive/
