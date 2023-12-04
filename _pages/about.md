@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. candidate in the [Oxford Applied and Theoretical Machine Learning Group](https://oatml.cs.ox.ac.uk), part of the Computer Science Department at the University of Oxford, under the co-supervision of [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/index.html) at the university of Oxford and [Debora Marks](https://sysbio.med.harvard.edu/debora-marks) at Harvard University. I am currently visiting at the [Marks lab](https://www.deboramarkslab.com/) in Boston.
+ <!-- and making the most of the great weather here!  -->
+I am interested in machine learning application to computational biology, specifically the use of protein language models as tools for generative protein design. This involves the development a new methods and network architectures for the specific problem at hand as well as the validation of these methods. I have worked with [Pascal Notin](https://www.pascalnotin.com) on ProteinNPT, a new architecture for supervised prediction of protein fitness prediction. I have also partake in the wider Marks lab effort ProteinGym, the most extensive collection of deep mutational scans, setting the most accurate benchmark of language models as fitness predictors. 
 
+I obtained my BEng in Biomedical Engineering at Imperial College London and my Mphil in Computational biology at the university of Cambridge, my master's thesis was supervised by [Bianca Dumitrascu](https://computational-morphogenomics-group.github.io/members/bianca-dumitrascu.html)
+
+
+This website was created using the [academicpages template](https://github.com/academicpages/academicpages.github.io) and is powered by [GitHub pages](https://pages.github.com). 
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+
+
+
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -47,4 +61,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
