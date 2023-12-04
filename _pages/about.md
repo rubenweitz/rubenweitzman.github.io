@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the [Oxford Applied and Theoretical Machine Learning G
  <!-- and making the most of the great weather here!  -->
 I am interested in machine learning application to computational biology, specifically the use of protein language models as tools for generative protein design. This involves the development a new methods and network architectures for the specific problem at hand as well as the validation of these methods. I have worked with [Pascal Notin](https://www.pascalnotin.com) on ProteinNPT, a new architecture for supervised prediction of protein fitness prediction. I have also partake in the wider Marks lab effort ProteinGym, the most extensive collection of deep mutational scans, setting the most accurate benchmark of language models as fitness predictors. 
 
-I obtained my BEng in Biomedical Engineering at Imperial College London and my Mphil in Computational biology at the university of Cambridge, my master's thesis was supervised by [Bianca Dumitrascu](https://computational-morphogenomics-group.github.io/members/bianca-dumitrascu.html)
+I obtained my BEng in Biomedical Engineering at Imperial College London and my MPhil in Computational biology at the university of Cambridge, my master's thesis was supervised by [Bianca Dumitrascu](https://computational-morphogenomics-group.github.io/members/bianca-dumitrascu.html)
 
 
 This website was created using the [academicpages template](https://github.com/academicpages/academicpages.github.io) and is powered by [GitHub pages](https://pages.github.com). 
